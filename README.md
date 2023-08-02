@@ -1,4 +1,8 @@
-# calculator
-Open source code calculator program made with Python as an alternative to Microsoft's calculator.
+<h1 align = "center">Calculator</h1>
 
-You can find the app in releases section.
+<h3>Open source code calculator program made with Python as an alternative to Microsoft's calculator.</h3>
+
+<li><a href="https://github.com/ataolalper/calculator/blob/main/calc.py">Click</a> for the source code of the application.</li>
+<li><a href="https://github.com/ataolalper/calculator/releases/tag/v0.1">Click</a> to download the calculator application.</li>
+
+<br><p align="center"><img width="100%" src="https://cdn.dribbble.com/users/470545/screenshots/3471475/calculater.gif" /></a></p>
