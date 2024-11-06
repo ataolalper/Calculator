@@ -1,6 +1,6 @@
 <h1 align = "center">Calculator</h1>
 
-<h3>Open source code calculator program made with Python as an alternative to Microsoft's calculator.</h3>
+<h3>Open source calculator program written in Python language as an alternative to Windows OS calculator.</h3>
 
 <li><a href="https://github.com/ataolalper/calculator/blob/main/calc.py">Click</a> for the source code of the application.</li>
 <li><a href="https://github.com/ataolalper/calculator/releases/tag/v0.1">Click</a> to download the calculator application.</li>
